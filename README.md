@@ -7,10 +7,6 @@ I found Baldur's Gate 3's class and race reactions delightful. Yes, they are oft
 
 ## FAQ
 
-### Q: Is this mod a compatibility nightmare?
-
-A: I honestly don't know. I hope not. I'm not deleting any vanilla dialogue, even during instances where it would make sense, only appending new lines that CHARNAME could choose (if they meet the requirements). 
-
 ## CHANGELOG
 
 #### 20241031 - Nightly. 
